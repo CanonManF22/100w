@@ -4,6 +4,6 @@
 2. 
 '''
 def demo():
-    print('cs 100w github demo')
+    print('cs 100w github demo - avi update')
 
 dem()

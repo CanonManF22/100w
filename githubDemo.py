@@ -1,8 +1,9 @@
+#Follow these instructions for the CS100w github demo
+'''
+1. enter: "git checkout -b [name_of_your_new_branch]" into your terminal or cmd
+2. 
+'''
 def demo():
-    print('github demo')
+    print('cs 100w github demo')
 
-def demo2():
-    print('this is a test of commiting and pushing to github!')
-
-demo()
-demo2()
+dem()
